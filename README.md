@@ -72,6 +72,6 @@ roderickfeatherstone@gmail.com
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-* William Brasic for guidance on machine learning techniques.
+* William Brasic for guidance on econometric techniques.
 * The University of Arizona for providing resources and datasets.
 * David Card and Alan Krueger for their seminal 1993 study, "Minimum Wages and Employment."
