@@ -4,7 +4,7 @@ An econometric analysis to evaluate the impact of New Jersey's minimum wage incr
 
 ## Description
 
-This project analyzes employment data from New Jersey and Pennsylvania to measure the causal effect of a minimum wage increase. The analysis involves implementing DiD estimators, testing the parallel trends assumption, and exploring robustness with fixed effects and nonparametric methods. This work was completed as part of ECON 418/518 at The University of Arizona
+This project analyzes employment data from New Jersey and Pennsylvania to measure the causal effect of a minimum wage increase. The analysis involves implementing DiD estimators, testing the parallel trends assumption, and exploring robustness with fixed effects and nonparametric methods. This work was completed as part of ECON 518 at The University of Arizona
 
 ## Getting Started
 
